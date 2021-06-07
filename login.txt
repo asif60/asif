@@ -1,0 +1,8 @@
+ github 
+login:asif60
+password:7032501797@mahi
+
+AWS
+login:alts.ece.asif@gmail.com
+password:Afsa@2019
+
