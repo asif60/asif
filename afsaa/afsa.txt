@@ -1,3 +1,0 @@
-aws login details
-user id:alts.ece.asif@gmail.com
-password:Afsa@2019
